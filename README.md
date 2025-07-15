@@ -13,7 +13,9 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor em formação com foco em back-end e apaixonado por tecnologia. Atualmente estudo na ETEC e venho dedicando meus dias ao aprendizado prático de linguagens como Python, além de dominar o essencial de HTML, CSS e Git.<br><br>Tenho interesse em desenvolvimento de aplicações web, especialmente na parte lógica, estrutural e funcional dos sistemas. Meus projetos aqui são fruto de estudos, bootcamps e muita vontade de evoluir na área.</p>
+<p align="left">🧑🏻‍💻 Sou um desenvolvedor em formação com foco em back-end e grande paixão por tecnologia. Atualmente curso a ETEC e venho dedicando meus dias ao aprendizado prático de linguagens como Python, além de já ter domínio do essencial de HTML, CSS e Git.
+
+Tenho especial interesse no desenvolvimento de aplicações web, com ênfase na lógica, estrutura e funcionamento dos sistemas. Aqui no meu GitHub, compartilho projetos que são fruto de muito estudo, participação em bootcamps e, principalmente, da minha vontade constante de evoluir na área da tecnologia.</p>
 
 ###
 
