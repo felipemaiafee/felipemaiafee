@@ -26,7 +26,3 @@ Atualmente estou buscando uma chance para colocar meus conhecimentos em prática
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemaia008@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
----
-
-> “Código é poesia em lógica.” – esse é o meu lema enquanto sigo estudando e evoluindo todos os dias 🚀
