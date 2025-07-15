@@ -1,32 +1,61 @@
-# 👋 Olá! Meu nome é Felipe Maia
+<img src="https://raw.githubusercontent.com/felipemaiafee/felipemaiafee/output/snake.svg" alt="Snake animation" />
 
-<br>
+###
+
+<h1 align="left">👋 Olá! Meu nome é Felipe Maia</h1>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemaiafee&show_icons=true&theme=dracula" alt="Felipe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemaiafee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemaiafee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<br>
 
-Sou um desenvolvedor em formação com foco em back-end e apaixonado por tecnologia. Atualmente estudo na ETEC e venho dedicando meus dias ao aprendizado prático de linguagens como **Python**, além de dominar o essencial de **HTML, CSS e Git**.
+###
 
-Tenho interesse em desenvolvimento de aplicações web, especialmente na parte lógica, estrutural e funcional dos sistemas. Meus projetos aqui são fruto de estudos, bootcamps e muita vontade de evoluir na área.
+<p align="left">Sou um desenvolvedor em formação com foco em back-end e apaixonado por tecnologia. Atualmente estudo na ETEC e venho dedicando meus dias ao aprendizado prático de linguagens como Python, além de dominar o essencial de HTML, CSS e Git.<br><br>Tenho interesse em desenvolvimento de aplicações web, especialmente na parte lógica, estrutural e funcional dos sistemas. Meus projetos aqui são fruto de estudos, bootcamps e muita vontade de evoluir na área.</p>
 
-## 🚀 Tecnologias que venho explorando:
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<h2 align="left">🚀 Tecnologias que venho explorando:</h2>
 
-## 📌 Em busca da minha primeira oportunidade!
+###
 
-Atualmente estou buscando uma chance para colocar meus conhecimentos em prática no mercado de trabalho. Se você tiver uma vaga de estágio ou freelancer e acredita no potencial de quem está começando com garra, bora conversar!
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
 
-## 📫 Contato
+###
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemaia008@gmail.com)
+<h2 align="left">📌 Em busca da minha primeira oportunidade!</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemaiaferreira)
+###
 
----
+<p align="left">Atualmente estou buscando uma chance para colocar meus conhecimentos em prática no mercado de trabalho. Se você tiver uma vaga de estágio ou freelancer e acredita no potencial de quem está começando com garra, bora conversar!</p>
+
+###
+
+<h2 align="left">📫 Contato</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipemaiaferreira" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:felipemaia008@gmail.com?subject=Contato%20profissional&body=Olá%2C%20vi%20seu%20perfil%20e%20gostaria%20de%20conversar." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
