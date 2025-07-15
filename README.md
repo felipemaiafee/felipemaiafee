@@ -1,6 +1,8 @@
-<img src="assets/ide felipe.png" alt="Descrição" />
+<div align="center">
+  <img src="assets/ide felipe.png" alt="Descrição" />
+</div>
 
-<h1 align="left">👋 Olá! Meu nome é Felipe Maia</h1>
+<h1 align="left">👋 Olá! Bem Vindo a Minha Página</h1>
 
 ###
 
