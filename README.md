@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/felipemaiafee/felipemaiafee/snake.svg" alt="Snake animation" />
 
-###
 
 <h1 align="left">👋 Olá! Meu nome é Felipe Maia</h1>
 
