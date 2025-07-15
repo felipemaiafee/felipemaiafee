@@ -30,5 +30,3 @@ Atualmente estou buscando uma chance para colocar meus conhecimentos em prática
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemaiaferreira)
 
 ---
-
-_Last updated: <small><sub>**<span id="date"></span>**</sub></small>_
