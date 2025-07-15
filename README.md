@@ -1,4 +1,4 @@
-<img src="assets/ide.png" alt="Descrição" width="150" />
+<img src="assets/ide.png" alt="Descrição" />
 
 <h1 align="left">👋 Olá! Meu nome é Felipe Maia</h1>
 
