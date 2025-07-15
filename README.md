@@ -1,5 +1,9 @@
 # 👋 Olá! Meu nome é Felipe Maia
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemaiafee&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
+</div>
+
 Sou um desenvolvedor em formação com foco em back-end e apaixonado por tecnologia. Atualmente estudo na ETEC e venho dedicando meus dias ao aprendizado prático de linguagens como **Python**, além de dominar o essencial de **HTML, CSS e Git**.
 
 Tenho interesse em desenvolvimento de aplicações web, especialmente na parte lógica, estrutural e funcional dos sistemas. Meus projetos aqui são fruto de estudos, bootcamps e muita vontade de evoluir na área.
