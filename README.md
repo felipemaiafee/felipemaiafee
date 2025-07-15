@@ -11,13 +11,12 @@ Sou um desenvolvedor em formação com foco em back-end e apaixonado por tecnolo
 Tenho interesse em desenvolvimento de aplicações web, especialmente na parte lógica, estrutural e funcional dos sistemas. Meus projetos aqui são fruto de estudos, bootcamps e muita vontade de evoluir na área.
 
 ## 🚀 Tecnologias que venho explorando:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ## 📌 Em busca da minha primeira oportunidade!
 Atualmente estou buscando uma chance para colocar meus conhecimentos em prática no mercado de trabalho. Se você tiver uma vaga de estágio ou freelancer e acredita no potencial de quem está começando com garra, bora conversar!
