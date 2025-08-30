@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="assets/ide felipe.png" alt="Descrição" />
+  <img src="https://github.com/user-attachments/assets/ee113f52-652e-4015-8c0a-608088a9065b" height="150" alt="1 (2)" />
 </div>
 
 <h1 align="left">👋 Olá! Bem Vindo a Minha Página</h1>
 
 ###
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ee113f52-652e-4015-8c0a-608088a9065b" height="150" alt="1 (2)" />
-</div>
 
 ###
 
