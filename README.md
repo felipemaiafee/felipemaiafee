@@ -10,9 +10,9 @@
 
 <p align="justify">Olá, meu nome é Felipe Maia Ferreira, tenho 17 anos e atuo como desenvolvedor júnior. Sou apaixonado por tecnologia e estou constantemente em busca de aprimorar minhas habilidades, dedicando meus estudos em casa através de cursos pagos e prática diária.</p>
 
-<p align="left">Minha principal linguagem de programação é o Python, que utilizo como base para a construção de soluções práticas e eficientes. No entanto, também possuo experiência com tecnologias Front-end e conhecimentos em UI/UX, o que me permite ter uma visão mais ampla no desenvolvimento de sistemas, tanto na parte lógica e estrutural quanto na experiência do usuário.</p>
+<p align="justify">Minha principal linguagem de programação é o Python, que utilizo como base para a construção de soluções práticas e eficientes. No entanto, também possuo experiência com tecnologias Front-end e conhecimentos em UI/UX, o que me permite ter uma visão mais ampla no desenvolvimento de sistemas, tanto na parte lógica e estrutural quanto na experiência do usuário.</p>
 
-<p align="left">Tenho grande interesse na área de desenvolvimento de sistemas, pois acredito que compreender a lógica, o funcionamento e a arquitetura das aplicações é essencial para criar projetos sólidos e escaláveis. Em meu portfólio compartilho projetos que refletem minha evolução, dedicação e vontade constante de crescer como profissional na área de tecnologia.</p>
+<p align="justify">Tenho grande interesse na área de desenvolvimento de sistemas, pois acredito que compreender a lógica, o funcionamento e a arquitetura das aplicações é essencial para criar projetos sólidos e escaláveis. Em meu portfólio compartilho projetos que refletem minha evolução, dedicação e vontade constante de crescer como profissional na área de tecnologia.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Atualmente estou buscando uma chance para colocar meus conhecimentos em prática no mercado de trabalho. Se você tiver uma vaga de estágio ou freelancer e acredita no potencial de quem está começando com garra, bora conversar!</p>
+<p align="justify">Atualmente estou buscando uma chance para colocar meus conhecimentos em prática no mercado de trabalho. Se você tiver uma vaga de estágio ou freelancer e acredita no potencial de quem está começando com garra, bora conversar!</p>
 
 ###
 
