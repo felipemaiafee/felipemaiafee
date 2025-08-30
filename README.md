@@ -7,8 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemaiafee&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaiafee&layout=compact&theme=dracula&hide_border=false&card_width=250" height="150" alt="languages graph" />
+  <img src="https://github.com/user-attachments/assets/ee113f52-652e-4015-8c0a-608088a9065b" height="150" alt="1 (2)" />
 </div>
 
 ###
