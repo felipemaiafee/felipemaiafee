@@ -1,42 +1,68 @@
+<!-- README (GitHub) em HTML -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee113f52-652e-4015-8c0a-608088a9065b" width="650" alt="1 (2)" />
+  <h1>💻 Olá! Seja bem-vindo(a) ao meu perfil!</h1>
 </div>
 
-<h1 align="left">👋 Olá! Bem Vindo a Minha Página</h1>
+<p>
+  Sou um desenvolvedor apaixonado por tecnologia e software, com foco em
+  <strong>desenvolvimento Back-end</strong>, construção de <strong>APIs</strong> e
+  <strong>segurança de aplicações</strong>. Atualmente, estou cursando duas graduações simultâneas, sendo uma delas
+  <strong>Engenharia de Software</strong> na <strong>UNIFIO</strong> e a outra
+  <strong>Cibersegurança</strong> na <strong>Cruzeiro do Sul</strong>. Busco sempre evoluir minhas habilidades técnicas e contribuir
+  para projetos que possam gerar impacto real.
+</p>
 
-###
+<hr />
 
-###
+<h2>📚 Sobre mim</h2>
 
-<p align="justify">Olá, meu nome é Felipe Maia Ferreira, tenho 17 anos e atuo como desenvolvedor. Sou apaixonado por tecnologia e estou constantemente em busca de aprimorar minhas habilidades, dedicando meus estudos em casa através de cursos pagos e prática diária.</p>
+<ul>
+  <li>
+    💼 <strong>Desenvolvedor Back-end:</strong> Experiência prática com <strong>Python</strong> e <strong>FastAPI</strong> para construção de APIs,
+    modelagem de dados com <strong>SQLAlchemy</strong> e desenvolvimento de sistemas organizados seguindo boas práticas.
+  </li>
+  <li>
+    🎓 <strong>Estudante dedicado:</strong> Estou constantemente aprendendo, estudando arquitetura de software, organização de código e fundamentos
+    de segurança para criar aplicações mais robustas.
+  </li>
+  <li>
+    🔐 <strong>Futuro especialista em segurança de aplicações:</strong> Aprofundando conhecimentos em cibersegurança para proteger sistemas, dados
+    e serviços contra vulnerabilidades.
+  </li>
+  <li>
+    🚀 <strong>Construtor de soluções:</strong> Desenvolvimento de projetos próprios com foco em resolver problemas reais, incluindo a criação de
+    sistemas no modelo <strong>SaaS</strong>.
+  </li>
+</ul>
 
-<p align="justify">Minha principal linguagem de programação é o Python, que utilizo como base para a construção de soluções práticas e eficientes, porém também venho estudando Java. No entanto, também possuo experiência com tecnologias Front-end e conhecimentos em UI/UX, o que me permite ter uma visão mais ampla no desenvolvimento de sistemas, tanto na parte lógica e estrutural quanto na experiência do usuário.</p>
+<hr />
 
-<p align="justify">Tenho grande interesse na área de desenvolvimento de sistemas, pois acredito que compreender a lógica, o funcionamento e a arquitetura das aplicações é essencial para criar projetos sólidos e escaláveis. Em meu portfólio compartilho projetos que refletem minha evolução, dedicação e vontade constante de crescer como profissional na área de tecnologia.</p>
+<h2>🔧 Tecnologias e Ferramentas</h2>
 
-###
+<ul>
+  <li><strong>Linguagens:</strong> Python</li>
+  <li><strong>Frameworks:</strong> FastAPI</li>
+  <li><strong>Banco de Dados e ORM:</strong> SQLAlchemy, SQLite</li>
+  <li><strong>Ferramentas de Desenvolvimento:</strong> Git</li>
+  <li><strong>Outros conhecimentos:</strong> APIs REST, estruturação de projetos, modelagem de sistemas, fundamentos de segurança em aplicações</li>
+</ul>
 
-###
+<hr />
 
-<h2 align="left">📌 Em busca da minha primeira oportunidade!</h2>
+<h2>🚀 Projeto em Destaque</h2>
 
-###
+<p>
+  <strong>Lumi</strong><br />
+  Projeto de sistema SaaS focado em organização e controle de informações para negócios, com visão de produto real,
+  validação com usuários e evolução por MVP.
+</p>
 
-<p align="justify">Atualmente estou buscando uma chance para colocar meus conhecimentos em prática no mercado de trabalho. Se você tiver uma vaga de estágio ou freelancer e acredita no potencial de quem está começando com garra, bora conversar!</p>
+<hr />
 
-###
+<h2>📫 Contato</h2>
 
-<h2 align="left">📫 Contato</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/felipemaiaferreira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:felipemaia008@gmail.com?subject=Contato%20profissional&body=Olá%2C%20vi%20seu%20perfil%20e%20gostaria%20de%20conversar." target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<ul>
+  <li>📧 <strong>E-mail:</strong> <a href="mailto:felipemaia008@gmail.com">felipemaia008@gmail.com</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/felipemaiaferreira/" target="_blank" rel="noopener noreferrer">Leonardo Chiarelli</a></li>
+  <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/felipemaiafee" target="_blank" rel="noopener noreferrer">felipemaiafee</a></li>
+</ul>
