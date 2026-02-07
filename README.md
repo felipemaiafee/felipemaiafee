@@ -63,6 +63,5 @@
 
 <ul>
   <li>📧 <strong>E-mail:</strong> <a href="mailto:felipemaia008@gmail.com">felipemaia008@gmail.com</a></li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/felipemaiaferreira/" target="_blank" rel="noopener noreferrer">Leonardo Chiarelli</a></li>
-  <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/felipemaiafee" target="_blank" rel="noopener noreferrer">felipemaiafee</a></li>
+  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/felipemaiaferreira/" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/felipemaiaferreira</a></li>
 </ul>
