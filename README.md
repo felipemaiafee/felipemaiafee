@@ -1,15 +1,26 @@
-<!-- README (GitHub) em HTML -->
 <div align="center">
-  <h1>💻 Olá! Seja bem-vindo(a) ao meu perfil!</h1>
+  <h1>👋 Olá! Seja bem-vindo(a) ao meu perfil</h1>
 </div>
 
 <p>
-  Sou um desenvolvedor apaixonado por tecnologia e software, com foco em
-  <strong>desenvolvimento Back-end</strong>, construção de <strong>APIs</strong> e
-  <strong>segurança de aplicações</strong>. Atualmente, estou cursando duas graduações simultâneas, sendo uma delas
-  <strong>Engenharia de Software</strong> na <strong>UNIFIO</strong> e a outra
-  <strong>Cibersegurança</strong> na <strong>Cruzeiro do Sul</strong>. Busco sempre evoluir minhas habilidades técnicas e contribuir
-  para projetos que possam gerar impacto real.
+  Sou um desenvolvedor em formação apaixonado por tecnologia e desenvolvimento de software. 
+  Atualmente estou focado em aprender e evoluir principalmente na área de 
+  <strong>desenvolvimento Back-end</strong>, construção de <strong>APIs</strong> e fundamentos de 
+  <strong>segurança de aplicações</strong>.
+</p>
+
+<p>
+  Estou cursando duas graduações simultaneamente:
+</p>
+
+<ul>
+  <li>🎓 <strong>Engenharia de Software</strong> — UNIFIO</li>
+  <li>🔐 <strong>Cibersegurança</strong> — Cruzeiro do Sul</li>
+</ul>
+
+<p>
+  Meu objetivo é evoluir constantemente como desenvolvedor, construindo projetos práticos e aprendendo 
+  boas práticas de arquitetura, organização de código e segurança em aplicações.
 </p>
 
 <hr />
@@ -17,22 +28,10 @@
 <h2>📚 Sobre mim</h2>
 
 <ul>
-  <li>
-    💼 <strong>Desenvolvedor Back-end:</strong> Experiência prática com <strong>Python</strong> e <strong>FastAPI</strong> para construção de APIs,
-    modelagem de dados com <strong>SQLAlchemy</strong> e desenvolvimento de sistemas organizados seguindo boas práticas.
-  </li>
-  <li>
-    🎓 <strong>Estudante dedicado:</strong> Estou constantemente aprendendo, estudando arquitetura de software, organização de código e fundamentos
-    de segurança para criar aplicações mais robustas.
-  </li>
-  <li>
-    🔐 <strong>Futuro especialista em segurança de aplicações:</strong> Aprofundando conhecimentos em cibersegurança para proteger sistemas, dados
-    e serviços contra vulnerabilidades.
-  </li>
-  <li>
-    🚀 <strong>Construtor de soluções:</strong> Desenvolvimento de projetos próprios com foco em resolver problemas reais, incluindo a criação de
-    sistemas no modelo <strong>SaaS</strong>.
-  </li>
+  <li>💻 <strong>Foco em Back-end:</strong> estudando desenvolvimento de APIs e organização de sistemas.</li>
+  <li>📖 <strong>Aprendizado contínuo:</strong> constantemente estudando programação, arquitetura de software e boas práticas.</li>
+  <li>🔐 <strong>Interesse em segurança:</strong> aprendendo fundamentos de cibersegurança para desenvolver aplicações mais seguras.</li>
+  <li>🚀 <strong>Projetos práticos:</strong> construindo projetos próprios para consolidar conhecimento e evoluir como desenvolvedor.</li>
 </ul>
 
 <hr />
@@ -40,22 +39,25 @@
 <h2>🔧 Tecnologias e Ferramentas</h2>
 
 <ul>
-  <li><strong>Linguagens:</strong> Python</li>
+  <li><strong>Linguagens:</strong> Python, Java (em aprendizado)</li>
   <li><strong>Frameworks:</strong> FastAPI</li>
   <li><strong>Banco de Dados e ORM:</strong> SQLAlchemy, SQLite</li>
-  <li><strong>Ferramentas de Desenvolvimento:</strong> Git</li>
-  <li><strong>Outros conhecimentos:</strong> APIs REST, estruturação de projetos, modelagem de sistemas, fundamentos de segurança em aplicações</li>
+  <li><strong>Ferramentas:</strong> Git, GitHub</li>
+  <li><strong>Outros conhecimentos:</strong> APIs REST, organização de projetos, fundamentos de segurança</li>
 </ul>
 
 <hr />
 
-<h2>🚀 Projeto em Destaque</h2>
+<h2>🚀 Projetos</h2>
 
 <p>
-  <strong>Lumi</strong><br />
-  Projeto de sistema SaaS focado em organização e controle de informações para negócios, com visão de produto real,
-  validação com usuários e evolução por MVP.
+  Aqui você encontrará projetos que estou desenvolvendo durante meus estudos, com foco em prática e evolução.
 </p>
+
+<ul>
+  <li>🎮 <strong>Last Days With Java</strong> — pequeno jogo de sobrevivência em console para praticar conceitos de Java e POO.</li>
+  <li>🧩 Outros projetos de estudo em desenvolvimento.</li>
+</ul>
 
 <hr />
 
@@ -63,5 +65,15 @@
 
 <ul>
   <li>📧 <strong>E-mail:</strong> <a href="mailto:felipemaia008@gmail.com">felipemaia008@gmail.com</a></li>
-  <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/felipemaiaferreira/" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/felipemaiaferreira</a></li>
+  <li>💼 <strong>LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/felipemaiaferreira/" target="_blank">
+      linkedin.com/in/felipemaiaferreira
+    </a>
+  </li>
 </ul>
+
+<hr />
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
+</p>
