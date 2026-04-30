@@ -1,82 +1,101 @@
 <div align="center">
-  <h1>👋 Olá! Seja bem-vindo(a) ao meu perfil</h1>
+  <h1>👋 Olá, eu sou o Felipe Maia</h1>
+  <p>
+    Desenvolvedor em formação focado em <strong>Back-End</strong>, <strong>Python</strong>,
+    <strong>FastAPI</strong> e <strong>soluções com Inteligência Artificial</strong>.
+  </p>
 </div>
 
+<hr />
+
+<h2>🚀 Sobre mim</h2>
+
 <p>
-  Sou estudante de <strong>Engenharia de Software</strong> e desenvolvedor em formação, com foco em
-  <strong>desenvolvimento Back-End utilizando Java</strong>.
+  Sou estudante de <strong>Engenharia de Software</strong> e estou direcionando minha carreira para o
+  desenvolvimento de <strong>APIs modernas</strong>, <strong>automações</strong>,
+  <strong>integrações entre sistemas</strong> e aplicações com <strong>IA</strong>.
 </p>
 
 <p>
-  Tenho conhecimento em programação e experiência prática com <strong>Java</strong> e <strong>Python</strong>,
-  aplicando conceitos como <strong>programação orientada a objetos</strong>,
-  <strong>lógica de programação</strong> e desenvolvimento de aplicações.
-  Atualmente, concentro meus estudos no <strong>ecossistema Java</strong>, buscando aprofundar minha compreensão
-  sobre construção de sistemas bem estruturados e escaláveis.
+  Atualmente, meu foco principal é estudar e aplicar <strong>Python</strong> com
+  <strong>FastAPI</strong>, construindo projetos práticos voltados para produtos digitais,
+  SaaS e soluções que resolvem problemas reais de negócio.
 </p>
 
 <p>
-  Também exploro <strong>automação de processos</strong> e <strong>integração entre sistemas</strong>,
-  criando soluções que ajudam a otimizar tarefas e conectar diferentes ferramentas e serviços.
-</p>
-
-<p>
-  Além do desenvolvimento, tenho interesse em evoluir para áreas mais estratégicas da tecnologia, como
-  <strong>arquitetura de software</strong>, <strong>engenharia de prompt aplicada à IA</strong> e,
-  futuramente, <strong>cybersegurança</strong>.
-</p>
-
-<p>
-  Sou movido por <strong>curiosidade, disciplina e aprendizado contínuo</strong>, sempre buscando desenvolver
-  projetos que fortaleçam minha base técnica e ampliem minha visão sobre como a tecnologia pode resolver problemas reais.
+  Também estou desenvolvendo o <strong>Relay</strong>, um projeto SaaS focado em
+  atendimento inteligente, automação comercial e qualificação de leads com IA.
 </p>
 
 <hr />
 
-<h2>📚 Sobre mim</h2>
+<h2>🎯 Foco atual</h2>
 
 <ul>
-  <li>💻 <strong>Foco em Back-End:</strong> estudando desenvolvimento de sistemas e aplicações com Java.</li>
-  <li>☕ <strong>Ecossistema Java:</strong> aprofundando conhecimentos em orientação a objetos, organização de código e construção de aplicações.</li>
-  <li>🐍 <strong>Experiência com Python:</strong> utilizando a linguagem para estudos, automações e resolução de problemas.</li>
-  <li>⚙️ <strong>Automação e integração:</strong> interesse em criar soluções que conectem serviços e otimizem processos.</li>
-  <li>🚀 <strong>Aprendizado contínuo:</strong> desenvolvendo projetos práticos para evoluir tecnicamente e construir uma base sólida.</li>
+  <li>🐍 Python para Back-End</li>
+  <li>⚡ FastAPI para criação de APIs modernas</li>
+  <li>🤖 Integrações com Inteligência Artificial</li>
+  <li>🔗 Webhooks, automações e integração entre sistemas</li>
+  <li>🚀 Construção de produtos SaaS</li>
 </ul>
 
 <hr />
 
-<h2>🔧 Tecnologias</h2>
+<h2>🧠 Tecnologias e conceitos</h2>
 
 <ul>
-  <li><strong>Linguagens:</strong> Java, Python</li>
+  <li><strong>Linguagens:</strong> Python, Java</li>
+  <li><strong>Back-End:</strong> FastAPI, APIs REST</li>
+  <li><strong>Banco de dados:</strong> PostgreSQL</li>
   <li><strong>Ferramentas:</strong> Git, GitHub</li>
-  <li><strong>Conceitos:</strong> Programação Orientada a Objetos, lógica de programação, estruturação de projetos</li>
+  <li><strong>Conceitos:</strong> Programação Orientada a Objetos, arquitetura de software, automação de processos e integração de sistemas</li>
 </ul>
 
 <hr />
 
-<h2>⚙️ Interesses e Atuação</h2>
+<h2>📌 Projeto em destaque</h2>
+
+<h3>Relay</h3>
 
 <p>
-  Back-End Development • Automação de Processos • Engenharia de Software • Engenharia de Prompt • Cybersegurança
+  O <strong>Relay</strong> é um projeto SaaS em desenvolvimento voltado para atendimento inteligente
+  e qualificação automática de leads.
 </p>
+
+<p>
+  A proposta é criar uma camada de IA capaz de atender, organizar, resumir e entregar leads mais preparados
+  para o processo comercial.
+</p>
+
+<ul>
+  <li>Gestão de leads</li>
+  <li>Atendimento automatizado com IA</li>
+  <li>Qualificação comercial</li>
+  <li>APIs e integrações</li>
+  <li>Arquitetura SaaS</li>
+</ul>
 
 <hr />
 
-<h2>📂 Projetos</h2>
+<h2>📚 Em evolução</h2>
 
 <p>
-  Aqui você encontrará projetos desenvolvidos durante meus estudos, com foco em prática, evolução técnica
-  e fortalecimento da minha base como desenvolvedor.
+  Minha abordagem de aprendizado é prática: estudo construindo projetos reais, validando ideias e aplicando
+  tecnologia para resolver problemas concretos.
 </p>
-
-<hr />
-
-<h2>💬 Idiomas</h2>
 
 <p>
-  Português (nativo) • Inglês (intermediário)
+  Atualmente estou aprofundando meus conhecimentos em:
 </p>
+
+<ul>
+  <li>FastAPI</li>
+  <li>SQLAlchemy</li>
+  <li>PostgreSQL</li>
+  <li>Autenticação JWT</li>
+  <li>Integrações com APIs externas</li>
+  <li>IA aplicada a produtos digitais</li>
+</ul>
 
 <hr />
 
@@ -90,5 +109,5 @@
 <hr />
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  🚀 Construindo, aprendendo e evoluindo um projeto por vez.
 </p>
