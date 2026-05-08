@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Olá, eu sou o Felipe Maia</h1>
   <p>
-    Desenvolvedor Back-End em formação focado em <strong>Java</strong>,
+    Desenvolvedor Back-End focado em <strong>Java</strong>,
     <strong>APIs REST</strong> e desenvolvimento de sistemas.
   </p>
 </div>
