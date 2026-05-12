@@ -52,13 +52,13 @@
 <h3>🗄 Banco de Dados</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="45" />
 </p>
 
 <h3>🛠 Ferramentas</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,pycharm" />
 </p>
 
 <hr />
