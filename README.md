@@ -58,8 +58,7 @@
 <h3>🛠 Ferramentas</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 </p>
 
 <hr />
