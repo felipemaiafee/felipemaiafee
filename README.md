@@ -42,12 +42,25 @@
 
 <h2>🧠 Tecnologias</h2>
 
-<ul>
-  <li><strong>Linguagens:</strong> Java, Python</li>
-  <li><strong>Banco de dados:</strong> PostgreSQL</li>
-  <li><strong>Ferramentas:</strong> Git, GitHub</li>
-  <li><strong>Conceitos:</strong> OOP, APIs REST, integração de sistemas e arquitetura de software</li>
-</ul>
+<h3>💻 Back-end & Desenvolvimento</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+</p>
+
+<h3>🗄 Banco de Dados</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+</p>
+
+<h3>🛠 Ferramentas</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</p>
 
 <hr />
 
